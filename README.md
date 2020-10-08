@@ -2,15 +2,16 @@
 
 <img src="https://user-images.githubusercontent.com/53969142/94687170-d630c500-0366-11eb-86e2-d702d308106a.png" width="30%">
 
-- **Tool** : Sts
-- **Language** : Java
-- **Topic** : Collection, Thread, Socket Network
+- **Tool** : STS
+- **Language** : Java Eclips
+- **Topic** : Generic, Collection, Thread, Socket Network
 - **Memo** : Notion
 
 ### Goal
-- What is Collection Framework?
-- What is Thread in Java?
-- What is Socket Network in Java?
+- Understand Genetic And Wild Card.
+- Understand Collection Framework.
+- Understand Thread in Java.
+- Understand Socket Network in Java.
 
 ### Collection 
 ArrayList, LinkedList 정리
