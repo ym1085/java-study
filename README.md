@@ -28,3 +28,6 @@ HashSet<E>, TreeSet<E>
   
 Stack, Queue, Map
 - https://www.notion.so/Chapter-20-cf744976fd3b4790b8f2adb99c141415
+
+Collection Framework2 (sort, binarysearch..)
+- https://www.notion.so/Chapter-21-4f07a3a2ab05465fa4841c0f2dabebc2
