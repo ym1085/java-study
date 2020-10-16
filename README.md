@@ -13,21 +13,25 @@
 - Understand Thread in Java.
 - Understand Socket Network in Java.
 
-### Collection 
-Generic Basic
-- https://www.notion.so/Chapter-16-93e7ccb655d94093bb6e7ce3be13a5c6
+### 목차
+**[제네릭이 기본 및 심화 부분 정리](https://github.com/ym1085/Java-Studying/blob/main/java-advanced-studying/src/com/java/study/generic/advance/README.md)**
+  - <E> 매개 변수 타입
+  - <?> 와일드카드
+  - <? super T> 하한 제한
+  - <? extends T> 상한 제한
 
-Generic Advance
-- https://www.notion.so/Chapter-17-abaec602cd6e4008a4ded845e4e3a2b9
+</br>
 
-ArrayList, LinkedList
-- https://www.notion.so/Chapter-18-4c03946d281b4ee082fe95ed4b93d725
+**[컬렉션 프레임워크 정리](https://github.com/ym1085/Java-Studying/blob/main/java-advanced-studying/src/com/java/study/collection/README.md)**
+  - Colliection<E>
+  - TreeSet<E>
+  - Set<E>
+  - List<E>
+  - Map<T, Object>
+  - HashMap<T, Object>
+ 
+</br>
 
-HashSet<E>, TreeSet<E>
-- https://www.notion.so/Chapter-19-b4e23a203fa040019f202317ad787b6e
-  
-Stack, Queue, Map
-- https://www.notion.so/Chapter-20-cf744976fd3b4790b8f2adb99c141415
-
-Collection Framework2 (sort, binarysearch..)
-- https://www.notion.so/Chapter-21-4f07a3a2ab05465fa4841c0f2dabebc2
+**[컬렉션 프레임워크2 심화 부분 정리](https://github.com/ym1085/Java-Studying/blob/main/java-advanced-studying/src/com/java/study/algorithm/README.md)**
+  - Sort Method
+  - binarySearch Method
