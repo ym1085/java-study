@@ -7,11 +7,15 @@
 - **Topic** : Generic, Collection, Thread, Socket Network
 - **Memo** : Notion
 
+</br>
+
 ### Goal
 - Understand Genetic And Wild Card.
 - Understand Collection Framework.
 - Understand Thread in Java.
 - Understand Socket Network in Java.
+
+</br>
 
 ### 목차
 **[제네릭이 기본 및 심화 부분 정리](https://github.com/ym1085/Java-Studying/blob/main/java-advanced-studying/src/com/java/study/generic/advance/README.md)**
@@ -35,3 +39,13 @@
 **[컬렉션 프레임워크2 심화 부분 정리](https://github.com/ym1085/Java-Studying/blob/main/java-advanced-studying/src/com/java/study/algorithm/README.md)**
   - Sort Method
   - binarySearch Method
+
+</br>
+
+**[열거형, 가변 인자 선언, 어노테이션](https://github.com/ym1085/Java-Studying/blob/main/java-advanced-studying/src/com/java/study/enumexam/README.md)**
+  - Enum
+  - Enum in Class
+  - Stirng...varags
+  - @Override
+  - @SuppressWarnings 
+  - @Deprecated
