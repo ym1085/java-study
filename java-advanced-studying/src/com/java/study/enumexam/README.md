@@ -65,7 +65,7 @@ class NonSafeConst {
 
 ```java
 enum Scale {
-	  DO, RE, MI, FA, SO, RA, TI
+	DO, RE, MI, FA, SO, RA, TI
 }
 
 // 열거형 값(Enmerated Values)
@@ -112,25 +112,25 @@ enum Person {
 
 class SafeEnum {
   public static void main(String[] args) {
-		  who(Person.MAN); // 정상적인 메소드 호출
-		  who(Animal.DOG); // **비정상적인 메소드 호출**
+	who(Person.MAN); // 정상적인 메소드 호출
+	who(Animal.DOG); // **비정상적인 메소드 호출**
 
-		  // **컴파일 과정에서 자료형 불일치로 인한 오류 발생**
+	// **컴파일 과정에서 자료형 불일치로 인한 오류 발생**
   }
 
   public static void who(Person man) {
-		  // man으로 전달되는 값이 int형이기에 오류가 발생하지 않는다.
-		  // man 참조 변수는 Person 형이기 때문에 컴파일 오류가 발생 한다.
+	// man으로 전달되는 값이 int형이기에 오류가 발생하지 않는다.
+	// man 참조 변수는 Person 형이기 때문에 컴파일 오류가 발생 한다.
 	
-      switch(man) {
-        case MAN : 
-            System.out.println("남성 손님입니다.");
-            break;
-        case WOMAN : 
-            System.out.println("여성 손님입니다.");
-            break;
-		}
+	switch(man) {
+	case MAN : 
+		System.out.println("남성 손님입니다.");
+		break;
+	case WOMAN : 
+		System.out.println("여성 손님입니다.");
+		break;
 	}
+  }
 }
 ```
 
