@@ -45,7 +45,7 @@
 **[열거형, 가변 인자 선언, 어노테이션](https://github.com/ym1085/Java-Studying/blob/main/java-advanced-studying/src/com/java/study/enumexam/README.md)**
   - Enum
   - Enum in Class
-  - Stirng...varags
+  - String...varags
   - @Override
   - @SuppressWarnings 
   - @Deprecated
