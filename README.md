@@ -18,7 +18,7 @@
 </br>
 
 ### 목차
-**[제네릭이 기본 및 심화 부분 정리](https://github.com/ym1085/Java-Studying/blob/main/java-advanced-studying/src/com/java/study/generic/advance/README.md)**
+**[제네릭 기본 및 심화 부분 정리](https://github.com/ym1085/Java-Studying/blob/main/java-advanced-studying/src/com/java/study/generic/advance/README.md)**
   - <E> 매개 변수 타입
   - <?> 와일드카드
   - <? super T> 하한 제한
@@ -52,10 +52,28 @@
   
   </br>
   
-**[내부클래스, 람다식](https://github.com/ym1085/Java-Studying/tree/main/java-advanced-studying/src/com/java/study/nestedclass)**
+**[내부클래스, 람다식](https://github.com/ym1085/Java-Studying/tree/main/java-advanced-studying/src/com/java/study/nestedclass/README.md)**
   - Static Inner Class
   - Inner Class
   - Outer Class
   - Lambda
   
-  
+**[람다식](java-advanced-studying/src/com/java/study/Lambda/README.md)**  
+  - Lambda
+  - Functional Programming
+ 
+**[메서드 참조](java-advanced-studying/src/com/java/study/methodref/README.md)**  
+  - static 메소드의 참조
+  - 참조변수를 통한 인스턴스 메서드 참조
+  - 클래스 이름을 통한 인스턴스 메서드 참조
+  - 생성자 참조
+
+**[Optional 클래스](java-advanced-studying/src/com/java/study/optional/README.md)**  
+  - Optional 클래스란?
+  - Optional 클래스로 If ~ else문 대체?
+
+**[Stream](java-advanced-studying/src/com/java/study/stream/README.md)**  
+  - 스트림?
+  - For문과 스트림의 차이?
+  - 파이프라인 개념
+
